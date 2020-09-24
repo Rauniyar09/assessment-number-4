@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Rajashri",
+        "city": "Jankapur",
+        "type": "Veg",
+        "cuisine": ["Maithili", "Italian"]
+    },
+    {
+        "name": "Hyatt hotel",
+        "city": "Kathmandu",
+        "type": "Veg",
+        "cuisine": ["Continetal"]
+    },
+    {
+        "name": "Solti Hotel",
+        "city": "Pokhara",
+        "type": "Non-veg",
+        "cuisine": ["Indian", "Chinese", "Arabian","Nepali"]
+    },
+    {
+        "name": "Indra Comforts",
+        "city": "Odisha",
+        "type": "Non-Veg",
+        "cuisine": ["KFC", "Chinese"]
+    },
+    {
+        
+        "name": "Orieon",
+        "city": "Bangalore",
+        "type": "Non-Veg",
+        "cuisine": ["Arabian", "Nepali"]
+    },
+    {
+        "name": "Saurbhi",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    }
+]
